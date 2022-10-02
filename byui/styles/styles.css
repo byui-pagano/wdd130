@@ -1,0 +1,9 @@
+.main-para {
+    font-size: 1.5em;
+    line-height: 1.0em;
+}
+
+#active {
+    background-color: black;
+    color: rgba(233, 235, 94, 0.945);
+}
