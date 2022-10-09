@@ -2,8 +2,38 @@
     font-size: 1.5em;
     line-height: 1.0em;
 }
-
-#active {
-    background-color: black;
-    color: rgba(233, 235, 94, 0.945);
+img {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+p {
+    width: 50%;
+}
+a {
+    font-size: 1.5em;
+}
+h1 {
+    text-align: center;
+    background-color: steelblue;
+    color: black;
+    padding: 10px;
+}
+nav, footer {
+    text-align: center;
+    background-color: gray;
+    color: white;
+}
+main p {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+}
+footer p {
+    font-size: 20px;
+    margin: 20px auto;
+}
+a:hover {
+    background-color: white;
+    color: steelblue;
 }
