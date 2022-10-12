@@ -1,0 +1,29 @@
+img {
+    width: 100%;
+}
+body {
+    background: gray;
+    margin: 0
+}
+.desk{
+    border-radius: 50%;
+    border: 8px solid rgb(87, 84, 84);
+    width: 15%;
+    margin: 120px;
+    
+}
+.grafhic {
+    border-radius: 50%;
+    width: 15%;
+    border: 8px solid rgb(87, 84, 84);
+    margin: 120px;
+}
+.person {
+    border-radius: 50%;
+    width: 15%;
+    border: 8px solid rgb(87, 84, 84);
+    margin: 120px;
+}
+image class{
+    width: 100%;
+}
