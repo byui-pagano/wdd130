@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+.home {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+h2 {
+    text-align: center;
+}
+.cherries {
+    background-color: gray;
+}
+img{
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
